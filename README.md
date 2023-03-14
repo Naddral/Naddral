@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFdLngwC0g/0jmo-ZTrqKtWZbAZK4bOpA/edit?utm_content=DAFdLngwC0g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="my banner">
+<img src="https://www.canva.com/design/DAFdLngwC0g/JBmMlFjzsA5OoK-8MKFdgA/view?utm_content=DAFdLngwC0g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="my banner">
 ### Hi there 👋
 
 **Naddral/Naddral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
