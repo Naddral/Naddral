@@ -3,15 +3,19 @@
 </p>
 ### Hi there 👋
 
-**Naddral** is a ✨ _me_ ✨.
+**Naddral** is ✨ _me_ ✨.
 
-Here are some ideas to get you started:
+Technical Skills
+<ul>
+  <li>
+    <p>
+    Known programming languages:
+      <img width="100" height="40" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+      <img width="100" height="40" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+      <img width="100" height="40" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+      <img width="100" height="40" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </p>
+  </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
